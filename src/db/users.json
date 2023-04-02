@@ -1,0 +1,67 @@
+{
+  "users": [
+    {
+      "login": "dtest2@gmail.com",
+      "password": "Qwerty123453",
+      "age": 130,
+      "id": "3",
+      "isDeleted": false
+    },
+    {
+      "login": "gatest2@gmail.com",
+      "password": "Qwerty123453",
+      "age": 130,
+      "id": "6",
+      "isDeleted": false
+    },
+    {
+      "id": "2",
+      "login": "gtest2@gmail.com",
+      "password": "Qwerty123453",
+      "age": 99,
+      "isDeleted": false
+    },
+    {
+      "id": "1",
+      "login": "gtest2@gmail.com",
+      "password": "Qwerty123453",
+      "age": 130,
+      "isDeleted": true
+    },
+    {
+      "login": "gtest2@gmail.com",
+      "password": "Qwerty123453",
+      "age": 130,
+      "id": "5",
+      "isDeleted": false
+    },
+    {
+      "login": "ntest2@gmail.com",
+      "password": "Qwerty123453",
+      "age": 130,
+      "id": "3",
+      "isDeleted": false
+    },
+    {
+      "login": "ntest2@gmail.com",
+      "password": "Qwerty123453",
+      "age": 130,
+      "id": "4",
+      "isDeleted": false
+    },
+    {
+      "login": "gatest2@gmail.com",
+      "password": "Qwerty123453",
+      "age": 130,
+      "id": "7",
+      "isDeleted": false
+    },
+    {
+      "login": "gatest2@gmail.com",
+      "password": "Qwerty123453",
+      "age": 130,
+      "id": "8",
+      "isDeleted": false
+    }
+  ]
+}
